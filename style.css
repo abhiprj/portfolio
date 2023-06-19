@@ -730,7 +730,7 @@ header {
     width: 290px;
     margin-bottom: 0.5rem;
   }
-  proj-3 {
+  .proj-3 {
     display: flex;
     justify-content: center;
     flex-direction: column;
